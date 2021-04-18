@@ -97,15 +97,15 @@
 
 不管是小程序还是APP，界面在布局上要足够合理，满足用户使用的常规要求，让用户在体验感上觉得满足而不是这个界面设计的真不合理。视觉效果应该尽量减少使用亮色，以降低对用户眼部的刺激；对加载的图片和皮肤的处理也应显得大方，要突出我们这个小程序最主要的功能所在。  
 
-![image](https://user-images.githubusercontent.com/45071332/115143592-ea29e300-a07a-11eb-91d2-d7c467b23caa.png)
+![image](https://user-images.githubusercontent.com/45071332/115143718-89e77100-a07b-11eb-811c-80b5ef2ffdc2.png)
 
-![image](https://user-images.githubusercontent.com/45071332/115143597-f4e47800-a07a-11eb-83d2-43cfca6a4541.png)
+![image](https://user-images.githubusercontent.com/45071332/115143686-61f80d80-a07b-11eb-9588-4c438017be6f.png)
 
-![image](https://user-images.githubusercontent.com/45071332/115143611-0463c100-a07b-11eb-8195-6a36710a4a5e.png)
+![image](https://user-images.githubusercontent.com/45071332/115143694-6e7c6600-a07b-11eb-8fdd-ecf15470d668.png)
 
-![image](https://user-images.githubusercontent.com/45071332/115143621-104f8300-a07b-11eb-8c89-4c67a49b190a.png)
+![image](https://user-images.githubusercontent.com/45071332/115143725-97046000-a07b-11eb-856d-86f90bec2740.png)
 
-![image](https://user-images.githubusercontent.com/45071332/115143646-2e1ce800-a07b-11eb-9ccd-320368644490.png)
+![image](https://user-images.githubusercontent.com/45071332/115143732-a388b880-a07b-11eb-97a4-b4ad0b780e9e.png)
 
 
 ### 5.4 小程序稳定性:  
