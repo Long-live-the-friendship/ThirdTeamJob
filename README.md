@@ -97,20 +97,6 @@
 
 不管是小程序还是APP，界面在布局上要足够合理，满足用户使用的常规要求，让用户在体验感上觉得满足而不是这个界面设计的真不合理。视觉效果应该尽量减少使用亮色，以降低对用户眼部的刺激；对加载的图片和皮肤的处理也应显得大方，要突出我们这个小程序最主要的功能所在。  
 
-![image](https://user-images.githubusercontent.com/45071332/115196234-472ca400-a122-11eb-8a99-5e07c0004b55.png)
-
-![image](https://user-images.githubusercontent.com/45071332/115196305-57dd1a00-a122-11eb-81d5-7f1efd56b218.png)
-
-![image](https://user-images.githubusercontent.com/45071332/115196351-64617280-a122-11eb-853c-078ed9073e51.png)
-
-![image](https://user-images.githubusercontent.com/45071332/115196388-6b888080-a122-11eb-8690-ab22618f74a5.png)
-
-![image](https://user-images.githubusercontent.com/45071332/115196434-7a6f3300-a122-11eb-9697-18672391e1be.png)
-
-![image](https://user-images.githubusercontent.com/45071332/115196460-822ed780-a122-11eb-8699-9c331cf85709.png)
-
-
-
 ### 5.4 小程序稳定性:  
 
 包括功能上的稳定性和本身的稳定性
@@ -137,3 +123,19 @@
 3）合格：界面整洁且友好，基本实现预期功能和满足实际需求  
 
 4）不合格：界面难懂，操作不便，基本功能并未实现  
+
+# 八、原型设计：
+
+![image](https://user-images.githubusercontent.com/45071332/115506112-12992380-a2ad-11eb-8098-151c51762299.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506122-16c54100-a2ad-11eb-8419-0bb743d12a13.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506133-1a58c800-a2ad-11eb-8210-dbf598054bb7.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506141-1cbb2200-a2ad-11eb-83f3-155e05e3c2e2.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506157-1fb61280-a2ad-11eb-954f-9fb813142b78.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506167-22186c80-a2ad-11eb-8c72-a12023b809d2.png)
+
+
