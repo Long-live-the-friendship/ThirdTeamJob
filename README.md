@@ -138,4 +138,28 @@
 
 ![image](https://user-images.githubusercontent.com/45071332/115506167-22186c80-a2ad-11eb-8c72-a12023b809d2.png)
 
+![image](https://user-images.githubusercontent.com/45071332/115506641-ae2a9400-a2ad-11eb-900e-bffc1cfd3272.png)
 
+![image](https://user-images.githubusercontent.com/45071332/115506656-b2ef4800-a2ad-11eb-9665-198d80e0d512.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506671-b71b6580-a2ad-11eb-8201-90b47eebe33f.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506685-bbe01980-a2ad-11eb-9aa3-084922ce3b22.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506713-c5698180-a2ad-11eb-8e53-cea4bdf2d96a.png)
+
+![image](https://user-images.githubusercontent.com/45071332/115506718-c7cbdb80-a2ad-11eb-8908-43ea82357500.png)
+
+# 九、疑问点：  
+
+### 9.1 信息安全：  
+
+小程序依靠微信登陆，用户信息安全相对而言较安全，存在冒号的可能性较低  
+
+### 9.2 核心功能如何实现：    
+
+我们目前还是选择让用户手动打卡，在打卡的同时为自己今天在图书馆制定一个小目标，并在用户签退时向用户询问今天是否完成了自己所制定的小目标，然后记录下是否完成了任务，调动用户的主体性，并且对自己的学习情况有所了解。  
+
+### 9.1 排行榜及好友功能：  
+
+我们通过查找好友的微信号添加好友，然后通过将各个用户的打卡时长写入数据库，进行排序，从而生成排行榜，但存在一定缺点，比如一旦数据库的数据过于庞大，数据库处理信息就会变的缓慢，这点我们暂时还没想好通过怎样的技术来实现，需要学习。   
